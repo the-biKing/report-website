@@ -14,3 +14,11 @@ button.returnHome{
     width: 200px;
     background-color: rgb(1, 53, 108);
 }
+button.apps{
+    border-radius: 10px;
+    color: #000;
+    background-color: rgb(0, 145, 255);
+    font-size: 15px;
+    width: 100px;
+    height: 5em;
+}

@@ -1,0 +1,21 @@
+:root{
+    color-scheme: dark;
+}
+h1{
+    font-size: 100px;
+}
+label.bug{
+    width: 1000px;
+    height: 1.2em;
+    font-size: 50px;
+}
+textarea.bug{
+    width: 1000px;
+    font-size: 50px;
+}
+input.submit{
+    font-size: 50px;
+    border-radius: 10px;
+    color: rgb(25, 26, 28);
+    background-color: gray;
+}
